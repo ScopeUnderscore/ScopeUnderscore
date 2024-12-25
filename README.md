@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Anandhu P Raj👋
 
 **Aspiring ML Engineer**  
 🌟 Building high-level abstractions in **statistics** and **probability** to solve complex problems.  
@@ -17,7 +17,7 @@
 
 ## 📈 Projects
 
-- **[Project Name](#)**: Brief description of a key project and its impact.
+- **[Recommendation System](#)**: Developed a recommendation system that suggests personalized posts and friend connections to users. Leveraged collaborative filtering and content-based methods.
 - **[Another Project](#)**: A short summary of another project showcasing your skills.
 
 ---
