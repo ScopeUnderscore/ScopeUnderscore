@@ -18,7 +18,6 @@
 ## 📈 Projects
 
 - **[Recommendation System](#)**: Developed a recommendation system that suggests personalized posts and friend connections to users. Leveraged collaborative filtering and content-based methods.
-- **[Another Project](#)**: A short summary of another project showcasing your skills.
 
 ---
 
